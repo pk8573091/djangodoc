@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../project1" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,22 +63,22 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="27" width="800" height="676" key="#Notifications" timestamp="1581838069650">
+    <state x="311" y="27" width="800" height="676" key="#Notifications" timestamp="1582440960586">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
-    <state x="311" y="27" width="800" height="676" key="#Notifications/67.27.1299.676@67.27.1299.676" timestamp="1581838069650" />
+    <state x="311" y="27" width="800" height="676" key="#Notifications/67.27.1299.676@67.27.1299.676" timestamp="1582440960586" />
     <state x="460" y="123" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582402876081">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
     <state x="460" y="123" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.676@67.27.1299.676" timestamp="1582402876081" />
-    <state x="569" y="259" width="294" height="290" key="Github.ShareDialog" timestamp="1582438892781">
+    <state x="569" y="259" width="294" height="290" key="Github.ShareDialog" timestamp="1582441397050">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
-    <state x="569" y="259" width="294" height="290" key="Github.ShareDialog/67.27.1299.676@67.27.1299.676" timestamp="1582438892781" />
-    <state x="171" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1582440606790">
+    <state x="569" y="259" width="294" height="290" key="Github.ShareDialog/67.27.1299.676@67.27.1299.676" timestamp="1582441397050" />
+    <state x="171" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1582441194802">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
-    <state x="171" y="27" width="1012" height="676" key="SettingsEditor/67.27.1299.676@67.27.1299.676" timestamp="1582440606790" />
+    <state x="171" y="27" width="1012" height="676" key="SettingsEditor/67.27.1299.676@67.27.1299.676" timestamp="1582441194802" />
     <state x="428" y="72" width="566" height="584" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1581536566635">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
