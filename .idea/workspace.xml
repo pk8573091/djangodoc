@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32332e0c-1a5a-4f4a-ad70-651291a60cca" name="Default Changelist" comment="" />
+    <list default="true" id="32332e0c-1a5a-4f4a-ad70-651291a60cca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="/usr/bin/git" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Xg7dTl5YEqGDGsPiP9hmiM8tLu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,8 +30,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project1" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,17 +77,17 @@
       <screen x="67" y="27" width="1299" height="676" />
     </state>
     <state x="569" y="259" width="294" height="290" key="Github.ShareDialog/67.27.1299.676@67.27.1299.676" timestamp="1582441397050" />
-    <state x="171" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1582441194802">
+    <state x="171" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1582477678895">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
-    <state x="171" y="27" width="1012" height="676" key="SettingsEditor/67.27.1299.676@67.27.1299.676" timestamp="1582441194802" />
+    <state x="171" y="27" width="1012" height="676" key="SettingsEditor/67.27.1299.676@67.27.1299.676" timestamp="1582477678895" />
     <state x="428" y="72" width="566" height="584" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1581536566635">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
     <state x="428" y="72" width="566" height="584" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/67.27.1299.676@67.27.1299.676" timestamp="1581536566635" />
-    <state x="372" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1582402623893">
+    <state x="372" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1582477526546">
       <screen x="67" y="27" width="1299" height="676" />
     </state>
-    <state x="372" y="192" key="com.intellij.ide.util.TipDialog/67.27.1299.676@67.27.1299.676" timestamp="1582402623893" />
+    <state x="372" y="192" key="com.intellij.ide.util.TipDialog/67.27.1299.676@67.27.1299.676" timestamp="1582477526546" />
   </component>
 </project>
